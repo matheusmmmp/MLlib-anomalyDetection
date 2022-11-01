@@ -1,5 +1,5 @@
 <h1 align="center">
-   🚌 <a href="#"> Anomaly detection with PySpark </a>
+   🦠 <a href="#"> Anomaly detection with PySpark </a>
 </h1>
 
 <h3 align="center">
